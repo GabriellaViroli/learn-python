@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DecodeMorse - palavra",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Gabriella\\Desktop\\learn_python_mba\\learn-python\\PROJETOS\\decode_morse\\decode_morse.py",
+            "console": "integratedTerminal",
+            "args": "'-.-. .- .-. --- .-.. .. -. .-'"
+        },
+        {
+            "name": "DecodeMorse - 1º texto",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Gabriella\\Desktop\\learn_python_mba\\learn-python\\PROJETOS\\decode_morse\\decode_morse.py",
+            "console": "integratedTerminal",
+            "args": "'--. .- -... .-. .. . .-.. .-.. .-  ...- .. .-. --- .-.. ..'"
+        },
+        {
+            "name": "DecodeMorse - 2º texto",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Gabriella\\Desktop\\learn_python_mba\\learn-python\\PROJETOS\\decode_morse\\decode_morse.py",
+            "console": "integratedTerminal",
+            "args": "'.--. -.-- - .... --- -.  ..-. --- .-.  -.. .- - .-  . -. --. .. -. . . .-.'"
+        },
+        {
+            "name": "DecodeMorse - 3º texto",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\Users\\Gabriella\\Desktop\\learn_python_mba\\learn-python\\PROJETOS\\decode_morse\\decode_morse.py",
+            "console": "integratedTerminal",
+            "args": "'-.. . -.-. .. ..-. .-. .- -. -.. ---  -.-. --- -.. .. --. ---  -- --- .-. ... .  -.-. --- -- ---  -- .- -. -.. .-  ---  ... .. ... - . -- .-'"
+        }
+    ]
+}
